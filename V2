@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Process Model and Analysis for Canopy Growth Corporation</title>
+  <style>
+    body {
+      background-color: #F2F2F2;
+      color: #261C14;
+    }
+    header {
+      background-color: #A67924;
+      color: #F2F2F2;
+    }
+    nav {
+      background-color: #BFA169;
+    }
+    nav ul li a {
+      color: #261C14;
+    }
+    section {
+      background-color: #D9C39A;
+    }
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Process Model and Analysis for Canopy Growth Corporation</h1>
+    <img src="https://www.canopygrowth.com/wp-content/themes/canopygrowth2020/dist/images/canopy-growth-logo-dark.svg" alt="Canopy Growth Corporation Logo">
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#proposed-business-model">Proposed Business Model</a></li>
+      <li><a href="#references">References</a></li>
+    </ul>
+  </nav>
+
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <h3>Current Process Flow of Manufacturing Cannabis Edibles</h3>
+    <p>
+      Canopy Growth Corporation is a leading cannabis company that manufactures a wide range of products, including cannabis edibles. The current process flow for manufacturing cannabis edibles at Canopy Growth Corporation is outlined below:
+    </p>
+    <ul>
+      <li>Raw Material Sourcing: Procurement of high-quality cannabis and other ingredients.</li>
+      <li>Quality Check: All raw materials undergo rigorous quality checks.</li>
+      <li>Material Storage: Storage of quality-approved materials.</li>
+      <li>Production Planning: Planning the production schedule and resource allocation.</li>
+      <li>Manufacturing: Actual production of cannabis edibles.</li>
+      <li>Quality Assurance: Quality checks for the finished products.</li>
+      <li>Packaging: Packaging the quality-approved edibles.</li>
+      <li>Storage: Storing the packaged products in a controlled environment.</li>
+      <li>Distribution: Distributing the products to various retail outlets.</li>
+      <li>Retail: The final products are sold to consumers.</li>
+    </ul>
+    <h4>Shortcomings:</h4>
+    <ul>
+      <li>Lack of automation in quality checks.</li>
+      <li>Inefficient resource allocation during production planning.</li>
+      <li>Limited storage capacity affecting production scale.</li>
+    </ul>
+    <h3>Current Process Model</h3>
+    <img src="https://showme.redstarplugin.com/d/d:NUruLnSc" alt="Current Process Model">
+    <p>[You can view this diagram in a new tab.](https://showme.redstarplugin.com/d/d:NUruLnSc)</p>
+    <p>[You can edit this diagram online if you want to make any changes.](https://showme.redstarplugin.com/s/s:atZOu9hN)</p>
+    <h3>Company and Product Images</h3>
+    <img src="https://cdn.sanity.io/images/yndmbamf/development/60c79d0fd00c6f06849a6c7a62c1d54e0259b5f1-703x674.png?w=703&h=674&auto=format" alt="Wana CBG Gummies">
+  </section>
+
+  <section id="proposed-business-model">
+    <h2>Proposed Business Model</h2>
+    <p>
+      <!-- Your text here -->
+    </p>
+    <h3>New Process Model</h3>
+    <img src="https://showme.redstarplugin.com/d/d:L3mSXrpq" alt="New Process Model">
+    <p>[You can view this diagram in a new tab.](https://showme.redstarplugin.com/d/d:L3mSXrpq)</p>
+    <p>[You can edit this diagram online if you want to make any changes.](https://showme.redstarplugin.com/s/s:CJb2LTWO)</p>
+    <h3>Cost Analysis</h3>
+    <table>
+      <tr>
+        <th>Item</th>
+        <th>Current Cost ($)</th>
+        <th>Proposed Cost ($)</th>
+      </tr>
+      <tr>
+        <td>Raw Material</td>
+        <td>100,000</td>
+        <td>90,000</td>
+      </tr>
+      <tr>
+        <td>Quality Check</td>
+        <td>20,000</td>
+        <td>18,000</td>
+      </tr>
+      <tr>
+        <td>Production</td>
+        <td>150,000</td>
+        <td>130,000</td>
+      </tr>
+      <tr>
+        <td>Packaging</td>
+        <td>30,000</td>
+        <td>28,000</td>
+      </tr>
+      <tr>
+        <td>Distribution</td>
+        <td>50,000</td>
+        <td>45,000</td>
+      </tr>
+    </table>
+  </section>
+
+  <section id="references">
+    <h2>References</h2>
+    <ul>
+      <li>Canopy Growth Corporation. (n.d.). About Us. Retrieved from <a href="https://www.canopygrowth.com/about/">https://www.canopygrowth.com/about/</a></li>
+      <li>Reuters. (2023, August 31). Pot firms gain as U.S. move to ease curbs lifts sentiment. Retrieved from <a href="https://www.reuters.com/business/pot-firms-gain-us-move-ease-curbs-lifts-sentiment-2023-08-31/">https://www.reuters.com/business/pot-firms-gain-us-move-ease-curbs-lifts-sentiment-2023-08-31/</a></li>
+      <li>MarketWatch. (n.d.). Canopy Growth Corp stock falls Friday, underperforms market. Retrieved from <a href="https://www.marketwatch.com/data-news/canopy-growth-corp-stock-falls-friday-underperforms-market-dc5bb624-2587ec2c8d40">
